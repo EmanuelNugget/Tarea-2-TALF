@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547443991 source:d:\c++\tarea 2 talf\main.cpp
+	<iostream>
+	<windows.h>
+
